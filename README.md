@@ -1,1 +1,1 @@
-#This is Web Project of Calculator.
+#This is the Web project of creating a 'CALCULATOR' using HTML, CSS, and basics of JAVASCRIPT. This project really helped me to improve my knowlege in CSS and JAVASCRIPT. This project is referred from the #codeTraversal YouTube channel. 
